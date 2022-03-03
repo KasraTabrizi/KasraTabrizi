@@ -1,5 +1,5 @@
-## Hi there, I'm Kasra Tabrizi! 
-### Frontend developer - web designer 👋
+## Hi there, I'm Kasra Tabrizi! 👋
+### Frontend developer - web designer 
 
 <!---**KasraTabrizi/KasraTabrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
