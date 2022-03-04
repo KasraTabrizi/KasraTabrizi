@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasra Tabrizi</h1>
 <h3 align="center">I'm a Frontend developer / web designer based in Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
 
 - 🔭 I’m currently working on **Spotify Clone**
 - 🌱 I’m currently learning **Typescript**
@@ -12,6 +12,15 @@
 <!--- 👯 I’m looking to collaborate on -->
 <!--- 💬 Ask me about ... -->
 
+🧰 My setup:
+<ul> 
+	<li>OS: Windows 10</li>
+	<li>Laptop: Acer Aspire 7</li>
+	<li>Browser: Chrome</li>
+	<li>Terminal: [Hyper](https://hyper.is/) </li>
+	<li>Code Editor: VSCode </li>
+	<li>Monitor: HP Z38c</li>
+</ul>
 <h4>👇Hit this in your terminal for more info on my profile:</h4>
 
 ```
