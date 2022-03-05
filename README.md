@@ -14,12 +14,12 @@
 
 🧰 My setup:
 <ul> 
-	<li>OS: Windows 10</li>
-	<li>Laptop: Acer Aspire 7</li>
-	<li>Browser: Chrome</li>
-	<li>Terminal: [Hyper](https://hyper.is/) </li>
-	<li>Code Editor: VSCode </li>
-	<li>Monitor: HP Z38c</li>
+	<li><b>OS</b>: Windows 10</li>
+	<li><b>Laptop</b>: Acer Aspire 7</li>
+	<li><b>Browser</b>: Chrome</li>
+	<li><b>Terminal</b>: [Hyper](https://hyper.is/) </li>
+	<li><b>Code Editor</b>: VSCode </li>
+	<li><b>Monitor</b>: HP Z38c</li>
 </ul>
 <h4>👇Hit this in your terminal for more info on my profile:</h4>
 
