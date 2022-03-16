@@ -1,3 +1,260 @@
+<svg fill="none" viewBox="0 0 900 1600" width="900" height="1600" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0 auto;
+					width: 100%;
+					height: 1600px;
+          /*
+					background: linear-gradient(-45deg, #ff5caa, #ff8211, #dddfcc);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+          */
+				}
+				.header1{
+				  font-size: 25px
+				  font-weight: 600;
+				}
+        h1 span{
+          display: inline-block;
+          animation:  waveHand 1s ease infinite;
+        }
+        h2{
+          margin: 20px 0;
+        }
+        @keyframes waveHand {
+					0% {
+						transform: rotate(5deg);
+					}
+					50% {
+						transform: rotate(-5deg);
+					}
+         100% {
+						transform: rotate(5deg);
+					}
+				}
+        .main_info__container{
+          width: 90%;
+          display: grid;
+          grid-template-rows: repeat(2,1fr);
+          grid-template-columns: repeat(3,1fr);
+          gap: 20px;
+        }
+        .block{
+          border-radius: 5px;
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: flex-start;
+          padding: 10px;
+          color: #575757;
+          animation: appear 1s ease;
+        }
+        @keyframes appear {
+					0% {
+						transform: translateY(-20px);
+            opacity: 0;
+					}
+					100% {
+						transform: translateY(0);
+            opacity: 1;
+					}
+				}
+        .block p, h3{
+          margin: 2px 0;
+        }
+        .working_on{
+          background-color: #77B6EA;
+          color: white;
+        }
+        .learning{
+          background-color: #B1F786;
+        }
+        .contact_me{
+          background-color: #F3A77B;
+          color: white;
+        }
+        .feedback{
+          background-color: #F7F286;
+          text-align: left;
+        }
+        .terminal{
+          background-color: #EDEDED;
+        }
+        .laptop{
+          border: 2px solid #77B6EA;
+        }
+        .browser{
+          border: 2px solid #B1F786;
+        }
+        .ex_monitor{
+          border: 2px solid #F3A77B;
+        }
+        .editor{
+          border: 2px solid #F7F286;
+        }
+        .editor p{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        .editor img{
+          width: 20px;
+          margin-right: 5px;
+        }
+        .terminal_app{
+          border: 2px solid #EDEDED;
+        }
+        .language_tools__container{
+          width: 90%;
+          display: grid;
+          grid-template-rows: auto;
+          grid-template-columns: repeat(6,1fr);
+          gap: 20px;
+        }
+        .language_tools__container img{
+          width: 50px;
+        }
+        .language_tools__container img:nth-child(1){
+          animation: appear .8s ease;
+        }
+        .language_tools__container img:nth-child(2){
+          animation: appear .8s 0.1s ease;
+        }
+        .language_tools__container img:nth-child(3){
+          animation: appear .8s 0.2s ease;
+        }
+        .language_tools__container img:nth-child(4){
+          animation: appear .8s 0.3s ease;
+        }
+        .language_tools__container img:nth-child(5){
+          animation: appear .8s 0.4s ease;
+        }
+        .language_tools__container img:nth-child(6){
+          animation: appear .8s 0.5s ease;
+        }
+        .language_tools__container img:nth-child(7){
+          animation: appear .8s 0.6s ease;
+        }
+        .language_tools__container img:nth-child(8){
+          animation: appear .8s 0.7s ease;
+        }
+        .language_tools__container img:nth-child(9){
+          animation: appear .8s 0.8s ease;
+        }
+        .language_tools__container img:nth-child(10){
+          animation: appear .8s 0.9s ease;
+        }
+        .language_tools__container img:nth-child(11){
+          animation: appear .8s 1s ease;
+        }
+        .language_tools__container img:nth-child(12){
+          animation: appear .8s 1.1s ease;
+        }
+        .language_tools__container img:nth-child(13){
+          animation: appear .8s 1.2s ease;
+        }
+			</style>
+			<div class="container">
+        <h1 class="header1">Hi <span>👋</span>, I'm Kasra Tabrizi</h1>
+        <h2>I'm a Frontend developer / web designer based in Spain</h2>
+        <div class="main_info__container">
+          <div class="block working_on">
+            <p>🔭 Currently working on</p>
+            <h3>Spotify Clone </h3>
+          </div>
+          <div class="block learning">
+            <p>🌱 I'm currently learning</p>
+            <h3>NodeJS</h3>
+          </div>
+          <div class="block contact_me">
+            <p>📫 How to reach me</p>
+            <h3>kasra_tabrizi@hotmail.com</h3>
+          </div>
+          <div class="block feedback">
+            <h3>🤔 Feel free to give me feedback on my projects!</h3>
+          </div>
+          <div class="block terminal">
+            <p>👇 Hit this in your terminal</p>
+            <h3>npx kasratabrizi</h3>
+          </div>
+        </div>
+        <h2>🧰 My Setup</h2>
+        <div class="main_info__container">
+          <div class="block laptop">
+            <p>💻 Laptop</p>
+            <h3>Macbook Pro 16" </h3>
+          </div>
+          <div class="block browser">
+            <p>🌐 Browser</p>
+            <h3>Safari/Chrome</h3>
+          </div>
+          <div class="block ex_monitor">
+            <p>🖥 External Monitor</p>
+            <h3>HP Z38c</h3>
+          </div>
+          <div class="block editor">
+            <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> Code Editor</p>
+            <h3>VSCode</h3>
+          </div>
+          <div class="block terminal_app">
+            <p>👩‍💻 Terminal</p>
+            <h3>Hyper</h3>
+          </div>
+        </div>
+			  <h2>🛠 Languages & Tools</h2>
+        <div class="language_tools__container">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+        </div>
+        <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasratabrizi&show_icons=true&locale=en&layout=compact" alt="kasratabrizi" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasratabrizi&show_icons=true&locale=en" alt="kasratabrizi" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
+/*
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -50,3 +307,4 @@
 		</div>
 	</foreignObject>
 </svg>
+*/
