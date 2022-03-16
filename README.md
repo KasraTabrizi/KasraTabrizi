@@ -50,3 +50,4 @@ npx kasratabrizi
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasratabrizi&show_icons=true&locale=en" alt="kasratabrizi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
