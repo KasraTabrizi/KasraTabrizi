@@ -1,3 +1,4 @@
+<!---
 <h1 align="center">Hi 👋, I'm Kasra Tabrizi</h1>
 <h3 align="center">I'm a Frontend developer / web designer based in Spain</h3>
 
@@ -8,10 +9,11 @@
 - 🤔 I’m looking for help with any project! **Feel free to give me feedback!**
 - 📫 How to reach me: **kasra_tabrizi@hotmail.com**
 - 😄 Pronouns: **he/him**
+-->
 <!--- ⚡ Fun fact: -->
 <!--- 👯 I’m looking to collaborate on -->
 <!--- 💬 Ask me about ... -->
-
+<!---
 🧰 My setup:
 <ul> 
 	<li><b>OS</b>: Windows 10</li>
@@ -37,14 +39,14 @@ npx kasratabrizi
 </p>
 
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasratabrizi&show_icons=true&locale=en&layout=compact" alt="kasratabrizi" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasratabrizi&show_icons=true&locale=en" alt="kasratabrizi" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
-
+-->
 <div align="center">
 	<br>
 		<img src="button.svg" width="900" height="1600" alt="button.svg">
 	<br>
 </div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasratabrizi&show_icons=true&locale=en&layout=compact" alt="kasratabrizi" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasratabrizi&show_icons=true&locale=en" alt="kasratabrizi" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
