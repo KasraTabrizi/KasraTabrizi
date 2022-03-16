@@ -42,11 +42,11 @@ npx kasratabrizi
 -->
 <div align="center">
 	<br>
-		<img src="button.svg" width="900" height="1600" alt="button.svg">
+		<img src="button.svg" alt="button.svg">
 	<br>
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasratabrizi&show_icons=true&locale=en&layout=compact" alt="kasratabrizi" /></p>
-
+ 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasratabrizi&show_icons=true&locale=en" alt="kasratabrizi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
