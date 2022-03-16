@@ -14,15 +14,25 @@
 					}
 				}
 				@keyframes mainHeaderAppear {
-								0% {
-									transform: translateX(-20px);
-				    opacity: 0;
-								}
-								100% {
-									transform: translateX(0);
-				    opacity: 1;
-								}
-							}
+					0% {
+				             transform: translateX(-20px);
+				             opacity: 0;
+					}
+					100% {
+					     transform: translateX(0);
+				    	     opacity: 1;
+					}
+				}
+			       @keyframes secondHeaderAppear {
+					0% {
+						transform: translateX(20px);
+				    		opacity: 0;
+					}
+					100% {
+						transform: translateX(0);
+				    		opacity: 1;
+					}
+				}
 				.container {
 					font-family:
 						system-ui,
@@ -45,7 +55,7 @@
 				h1{
 				  font-size: 25px
 				  font-weight: 600;
-				  animation:  mainHeaderAppear 1s ease infinite;
+				  animation:  mainHeaderAppear 1s ease;
 				}
 				h1 span{
 				  display: inline-block;
@@ -53,6 +63,7 @@
 				}
 				h2{
 				  margin: 20px 0;
+			          animation:  secondHeaderAppear 1s ease;
 				}
 				@keyframes waveHand {
 								0% {
