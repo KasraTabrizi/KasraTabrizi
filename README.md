@@ -71,4 +71,4 @@ npx kasratabrizi
 &nbsp;
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasratabrizi&" alt="kasratabrizi" /></p>
 &nbsp;
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi_profile count" /> </p>
