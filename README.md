@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
 
 - 🔭 I’m currently working on **Spotify Clone**
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **VueJS**
 - 🤔 I’m looking for help with any project! **Feel free to give me feedback!**
 - 📫 How to reach me: **kasra_tabrizi@hotmail.com**
 - 😄 Pronouns: **he/him**
