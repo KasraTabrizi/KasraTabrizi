@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kasratabrizi&label=Profile%20views&color=0e75b6&style=flat" alt="kasratabrizi" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **VueJS App**
 - 🌱 I’m currently learning **VueJS**
 - 🤔 I’m looking for help with any project! **Feel free to give me feedback!**
 - 📫 How to reach me: **kasra_tabrizi@hotmail.com**
@@ -16,9 +16,9 @@
 <!---
 🧰 My setup:
 <ul> 
-	<li><b>OS</b>: Windows 10</li>
-	<li><b>Laptop</b>: Acer Aspire 7</li>
-	<li><b>Browser</b>: Chrome</li>
+	<li><b>OS</b>: macOS Monterey</li>
+	<li><b>Laptop</b>: Macbook Air M1/li>
+	<li><b>Browser</b>: Chrome/Safari</li>
 	<li><b>Terminal</b>: [Hyper](https://hyper.is/) </li>
 	<li><b>Code Editor</b>: VSCode </li>
 	<li><b>Monitor</b>: HP Z38c</li>
