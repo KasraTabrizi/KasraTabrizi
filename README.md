@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **VueJS App**
 - 🌱 I’m currently learning **VueJS**
 - 🤔 I’m looking for help with any project! **Feel free to give me feedback!**
-- 📫 How to reach me: **kasra_tabrizi@hotmail.com**
+- 📫 How to reach me: **kasra.alagtabrizi@gmail.com**
 - 😄 Pronouns: **he/him**
 -->
 <!--- ⚡ Fun fact: -->
